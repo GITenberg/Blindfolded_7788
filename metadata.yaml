@@ -1,0 +1,24 @@
+_repo: Blindfolded_7788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walcott, Earle Ashley
+    birthdate: 1859
+    deathdate: 1931
+    gutenberg_agent_id: '2529'
+    url: http://www.gutenberg.org/2009/agents/2529
+description: Cover -- Contents.
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- GITenberg
+title: Blindfolded
+url: http://www.gutenberg.org/ebooks/7788
